@@ -4,11 +4,25 @@
 
 | 題號 | 題目 | 題型 | 難度 | 狀態 |
 |------|------|------|:----:|:----:|
-| UVA100 | The 3n + 1 Problem | 模擬 | ★☆☆☆☆ | ? AC |
+| UVA100 | The 3n + 1 Problem | 模擬 | ★☆☆☆☆ |  AC |
 
 
 
 # Git 常用指令
+
+## 每次刷題流程
+
+1. 建立 `UVAxxxx` 資料夾。
+2. 撰寫 `main.cpp`。
+3. 更新 `README.md`（刷題進度）。
+4. 更新該題 `README.md`（題目筆記）。
+5. 執行：
+
+```bash
+git add .
+git commit -m "Solve UVAxxxx"
+git push
+```
 
 ## 第一次下載 Repository（只需要一次）
 
@@ -69,16 +83,4 @@ git status
 
 
 
-## 每次刷題流程
 
-1. 建立 `UVAxxxx` 資料夾。
-2. 撰寫 `main.cpp`。
-3. 更新 `README.md`（刷題進度）。
-4. 更新該題 `README.md`（題目筆記）。
-5. 執行：
-
-```bash
-git add .
-git commit -m "Solve UVAxxxx"
-git push
-```
