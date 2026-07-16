@@ -1,5 +1,5 @@
 # UVA100 - The 3n + 1 Problem
-- 
+
 
 ## 題目簡述
 - 給定兩個整數 i 和 j ，計算區間內每個數字的 CycleLength(循環長度)，並找出最大的 CycleLength 。

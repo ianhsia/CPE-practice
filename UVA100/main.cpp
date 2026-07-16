@@ -1,4 +1,4 @@
-//c039. 00100 ¡V The 3n + 1 problem
+//UVA100 ¡V The 3n + 1 problem
 #include<iostream>
 using namespace std;
 
