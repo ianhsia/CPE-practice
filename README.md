@@ -6,6 +6,7 @@
 |------|------|------|:----:|:----:|
 | UVA100 | The 3n + 1 Problem | º“¿¿ | °π°∏°∏°∏°∏ |  AC |
 | UVA272 | TeX Quotes | ¶r¶Í≥B≤z | °π°∏°∏°∏°∏ |  AC |
+| UVA118 | Mutant Flatworld Explorers | Simulation°]º“¿¿°^ | °π°∏°∏°∏°∏ |  AC |
 
 
 
