@@ -6,12 +6,12 @@
 - (給你一串亂掉的數字，每次只能交換相鄰的兩個數字，換成遞增的順序，求最少的交換次數)
 
 ## 用到的觀念
-- Array(陣列)：儲存車廂順序
-- Bubble Sort
+- `Array`(陣列)：儲存車廂順序
+- `Bubble Sort`
 
 ## 題型
-- Simulation(模擬)
-- Sorting(排序)
+- `Simulation`(模擬)
+- `Sorting`(排序)
 
 ## 解題思路
 1. 讀入測資
