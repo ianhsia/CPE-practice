@@ -2,12 +2,12 @@
 
 ## 已完成
 
-| 題號 | 題目 | 題型 | 難度 | 狀態 |
-|------|------|------|:----:|:----:|
-| UVA100 | The 3n + 1 Problem | 模擬 | ★☆☆☆☆ |  AC |
-| UVA272 | TeX Quotes | 字串處理 | ★☆☆☆☆ |  AC |
-| UVA118 | Mutant Flatworld Explorers | Simulation（模擬） | ★☆☆☆☆ |  AC |
-
+| 編號 | 題號     | 題目                         | 題型             | 難度    | 狀態 |
+| :--: | -------- | ---------------------------- | ---------------- | :-----: | :--: |
+| 1    | UVA100   | The 3n + 1 Problem           | 模擬             | ★☆☆☆☆ | AC   |
+| 2    | UVA272   | TeX Quotes                   | 字串處理         | ★☆☆☆☆ | AC   |
+| 3    | UVA118   | Mutant Flatworld Explorers   | Simulation（模擬） | ★☆☆☆☆ | AC   |
+| 4    | UVA299   | Train Swapping               | Simulation（模擬） | ★☆☆☆☆ | AC   |
 
 
 # Git 常用指令
