@@ -2,15 +2,19 @@
 
 ## 已完成
 
-| 編號 | 題號     | 題目                         | 題型             | 難度    | 狀態 |
-| :--: | -------- | ---------------------------- | ---------------- | :-----: | :--: |
-| 1    | UVA100   | The 3n + 1 Problem           | 模擬             | ★☆☆☆☆ | AC   |
-| 2    | UVA272   | TeX Quotes                   | 字串處理         | ★☆☆☆☆ | AC   |
-| 3    | UVA118   | Mutant Flatworld Explorers   | Simulation（模擬） | ★☆☆☆☆ | AC   |
-| 4    | UVA299   | Train Swapping               | Simulation（模擬） | ★☆☆☆☆ | AC   |
-
+| 編號 | 題號   | 題目                          | 題型     | 難度       | 狀態 |  完成日期   |
+| :--: | ------ | ---------------------------- | -------- | :-------: | :--: | :---------: |
+| 1    | UVA100 | The 3n + 1 Problem           | 模擬     | ★☆☆☆☆ | AC   | 2026/07/07 |
+| 2    | UVA272 | TeX Quotes                   | 字串處理 | ★☆☆☆☆ | AC   | 2026/07/17 |
+| 3    | UVA118 | Mutant Flatworld Explorers   | 模擬     | ★☆☆☆☆ | AC   | 2026/07/24 |
+| 4    | UVA299 | Train Swapping               | 模擬     | ★☆☆☆☆ | AC   | 2026/08/08 |
+| 5    | UVA490 | Rotating Sentences           | 模擬     | ★☆☆☆☆ | AC   | 2026/08/08 |
 
 # Git 常用指令
+
+## 結束終端
+- `ctrl+z`
+- `enter`
 
 ## 每次刷題流程
 
@@ -66,23 +70,16 @@ git commit -m "Solve UVA10055"
 ```bash
 git push
 ```
-
 ---
 
 
 ## 查看歷史紀錄
-
 ```bash
 git log --oneline
 ```
 
 
 ## 查看目前有哪些變更
-
 ```bash
 git status
 ```
-
-
-
-
