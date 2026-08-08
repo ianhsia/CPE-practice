@@ -28,8 +28,8 @@ int main()
             {
                 if (a[j] > a[j + 1])
                 {
-                    swap(a[j], a[j + 1]);
-                    count++;
+                    swap(a[j], a[j + 1]);// 交換車廂
+                    count++;// 計算交換次數
                 }
             }
         }
