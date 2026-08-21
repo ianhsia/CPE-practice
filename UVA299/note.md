@@ -29,6 +29,7 @@
 
 ## ´ú¸ê½d¨Ò
 ### Input
+```
 3
 3
 1 3 2
@@ -36,7 +37,10 @@
 4 3 2 1
 2
 2 1
+```
 ### Output
+```
 Optimal train swapping takes 1 swaps.
 Optimal train swapping takes 6 swaps.
 Optimal train swapping takes 1 swaps.
+```

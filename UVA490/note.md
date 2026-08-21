@@ -40,9 +40,12 @@
 
 ## ´ú¸ê½d¨Ò
 ### Input
+```
 Rene Decartes once said,
 "I think, therefore I am."
+```
 ### Output
+```
 "R
 Ie
  n
@@ -69,3 +72,4 @@ ad
 m,
 . 
 " 
+```

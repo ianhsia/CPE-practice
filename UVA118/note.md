@@ -45,6 +45,7 @@
 
 ## ´ú¸ê½d¨Ò
 ### Input
+```
 5 3
 1 1 E
 RFRFRFRF
@@ -52,7 +53,10 @@ RFRFRFRF
 FRRFLLFFRRFLL
 0 3 W
 LLFFFLFLFL
+```
 ### Output
+```
 1 1 E
 3 3 N LOST
 2 3 S
+```
