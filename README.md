@@ -9,6 +9,7 @@
 | 3    | UVA118 | Mutant Flatworld Explorers   | 模擬     | ★☆☆☆☆ | AC   | 2026/07/24 |
 | 4    | UVA299 | Train Swapping               | 模擬     | ★☆☆☆☆ | AC   | 2026/08/08 |
 | 5    | UVA490 | Rotating Sentences           | 模擬     | ★☆☆☆☆ | AC   | 2026/08/08 |
+| 5    | UVA948 | Fibonaccimal Base            | 貪心法   | ★☆☆☆☆ | AC   | 2026/08/18 |
 
 # Git 常用指令
 
