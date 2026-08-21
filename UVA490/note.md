@@ -37,3 +37,35 @@
 
 ## 完成日期
 - 2026/08/08
+
+## 測資範例
+### Input
+Rene Decartes once said,
+"I think, therefore I am."
+### Output
+"R
+Ie
+ n
+te
+h 
+iD
+ne
+kc
+,a
+ r
+tt
+he
+es
+r 
+eo
+fn
+oc
+re
+e 
+ s
+Ia
+ i
+ad
+m,
+. 
+" 
